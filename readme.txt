@@ -6,3 +6,4 @@ git创建文件夹：mkdir <your file>
 创建文档：vi <your file>
 退出编辑：esc :wq
 删除工作区内容:git checkout -- file
+to be contine...
