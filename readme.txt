@@ -6,6 +6,7 @@ git创建文件夹：mkdir <your file>
 创建文档：vi <your file>
 退出编辑：esc :wq
 删除工作区内容:git checkout -- file
+删除暂存区内容：git reset HEAD <file> && git checkout -- file
 查看历史修改记录：git log
 加参数显示更清晰：git log --pretty=oneline
 版本回退到上一个版本：git reset --hard HEAD^
