@@ -1,5 +1,8 @@
-Git is distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick AND simple.
+这是一个学习git用的仓库
+git创建文件夹：mkdir <your file>
+进入文件夹：cd <your file>
+显示目录:pwd
+初始化仓库：git init
+创建文档：vi <your file>
+退出编辑：esc :wq
+删除工作区内容:git checkout -- file
