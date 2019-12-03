@@ -14,3 +14,6 @@ git创建文件夹：mkdir <your file>
 回到未来或过去某个版本：git reset --hard <id号>
 查找过去的每一次命令：git reflog
 查看当前状态：git status
+*把本地master文件上传到远程库：git push origin master
+创建克隆库：在github上创建克隆库勾选Initialize this repository with a README，这样GitHub会自动为我们创建一个README.md文件。创建完毕后，可以看到README.md文件然后使用命令git clone克隆一个本地库$ git clone git@github.com:jmkid/gitskills.git
+注：github.com:后面写的是自己的账户名
